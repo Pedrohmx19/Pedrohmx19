@@ -9,4 +9,8 @@
 </div>
 <br>
 <h2>Forma de contato</h2>
-<a href="https://instagram.com/pedrohmx_"><img src=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<div display="inline">
+<a href="https://instagram.com/pedrohmx_"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+<a href="pm901442@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</div>
