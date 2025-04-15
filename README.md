@@ -14,3 +14,8 @@
 <a href="mailto:pm901442@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </div>
+
+<br>
+
+- <h3>Status do perfil</h3>
+[![Pedro-stats](https://github-readme-stats.vercel.app/api?username=Pedrohmx19)](https://github.com/anuraghazra/github-readme-stats)
