@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1>Pedro Henrique</h1>
+<br>
+<p align="center">Sou Pedro Henrique, desenvolvedor Front-End com grande interesse por tecnologia. Tenho me dedicado intensamente aos estudos e estou em constante evolução na área, buscando sempre melhorar minhas habilidades e acompanhar as tendências do mercado.</p>
 
-<!--
-**Pedrohmx19/Pedrohmx19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Tecnologia usada</h2>
+<div display="inline-block">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+<br>
+<h2>Forma de contato</h2>
+<a href="https://instagram.com/pedrohmx_"><img src=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
